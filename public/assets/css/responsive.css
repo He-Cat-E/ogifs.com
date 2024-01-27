@@ -1,0 +1,82 @@
+@media (max-width:1366px) {}
+
+@media (max-width:995px) {
+    .wide-area {
+        height: 140px !important;
+    }
+
+    .long-area {
+        height: 295px !important;
+    }
+}
+
+
+@media (max-width:768px) {
+    .wide-area {
+        height: 110px !important;
+    }
+
+    .long-area {
+        height: 230px !important;
+    }
+
+    .right-arrow {
+        width: 13px !important;
+    }
+
+    .text-small {
+        font-size: 9px !important;
+    }
+
+    .modal_scroll {
+        max-height: 540px;
+    }
+
+    .pink-btn {
+        padding: 3px 8px 3px 8px;
+        font-size: small;
+        margin-top: 10px;
+    }
+}
+
+@media (max-width:600px) {
+    .column {
+        width: 100%;
+        height: auto;
+    }
+
+    .wide-area {
+        height: 85px !important;
+    }
+
+    .long-area {
+        height: 183px !important;
+    }
+}
+
+@media (max-width:400px) {
+    .mega-drop-down-1 .row {
+        height: 675px;
+    }
+
+    input::placeholder {
+        font-size: 11px !important;
+    }
+}
+
+@media (max-width:370px) {
+    .mega-drop-down {
+        top: 14% !important;
+    }
+
+    .footer-bg {
+        background-color: #161617;
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+
+    .copy-text {
+        text-align: center;
+        padding-bottom: 1rem;
+    }
+}
